@@ -1,0 +1,291 @@
+{
+  "left amygdala": {
+    "number":1,
+    "A": [
+      {
+        "region_name": "left amygdala",
+        "region_number": 10,
+        "atlas": "harvard-sub"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "Amygdala_L",
+        "region_number": 45,
+        "atlas": "aal"
+      }
+    ]
+  },
+
+  "right amygdala": {
+    "number": 2,
+    "A": [
+      {
+        "region_name": "right amygdala",
+        "region_number": 20,
+        "atlas": "harvard-sub"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "Amygdala_R",
+        "region_number": 46,
+        "atlas": "aal"
+      }
+    ]
+  },
+
+  "left cingulate gyrus, anterior division": {
+    "number": 3,
+    "A": [
+      {
+        "region_name": "left cingulate gyrus, anterior division",
+        "region_number": 57,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "Cingulate_Mid_L",
+        "region_number": 37,
+        "atlas": "aal"
+      },
+      {
+        "region_name": "ACC_pre_L",
+        "region_number": 153,
+        "atlas": "aal"
+      },
+      {
+        "region_name": "ACC_sup_L",
+        "region_number": 155,
+        "atlas": "aal"
+      }
+    ]
+  },
+
+  "right cingulate gyrus, anterior division": {
+    "number": 4,
+    "A": [
+      {
+        "region_name": "right cingulate gyrus, anterior division",
+        "region_number": 58,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "Cingulate_Mid_R",
+        "region_number": 38,
+        "atlas": "aal"
+      },
+      {
+        "region_name": "ACC_pre_R",
+        "region_number": 154,
+        "atlas": "aal"
+      },
+      {
+        "region_name": "ACC_sup_R",
+        "region_number": 156,
+        "atlas": "aal"
+      }
+    ]
+  },
+
+  "right supramarginal gyrus, anterior division": {
+    "number": 5,
+    "A": [
+      {
+        "region_name": "right supramarginal gyrus, anterior division",
+        "region_number": 38,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "SupraMarginal_R",
+        "region_number": 68,
+        "atlas": "aal"
+      }
+    ]
+  },
+
+  "left superior temporal gyrus, anterior division": {
+    "number": 6,
+    "A": [
+      {
+        "region_name": "left superior temporal gyrus, anterior division",
+        "region_number": 17,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "Temporal_Sup_L",
+        "region_number": 85,
+        "atlas": "aal"
+      }
+    ]
+  },
+
+  "Right temporal fusiform cortex, anterior division": {
+    "number": 7,
+    "A": [
+      {
+        "region_name": "Right temporal fusiform cortex, anterior division",
+        "region_number": 74,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "Fusiform_R",
+        "region_number": 60,
+        "atlas": "aal"
+      }
+    ]
+  },
+
+
+  "Left frontal pole": {
+    "number": 8,
+    "A": [
+      {
+        "region_name": "Left frontal pole",
+        "region_number": 1,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "Frontal_Sup_2_L",
+        "region_number": 3,
+        "atlas": "aal"
+      },
+      {
+        "region_name": "Frontal_Mid_2_L",
+        "region_number": 5,
+        "atlas": "aal"
+      },
+      {
+        "region_name": "Frontal_Sup_Medial_L",
+        "region_number": 19,
+        "atlas": "aal"
+      }
+    ]
+  },
+
+  "Right frontal pole": {
+    "number": 9,
+    "A": [
+      {
+        "region_name": "Right frontal pole",
+        "region_number": 2,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "Frontal_Sup_2_R",
+        "region_number": 4,
+        "atlas": "aal"
+      },
+      {
+        "region_name": "Frontal_Mid_2_R",
+        "region_number": 6,
+        "atlas": "aal"
+      },
+      {
+        "region_name": "Frontal_Sup_Medial_R",
+        "region_number": 20,
+        "atlas": "aal"
+      }
+    ]
+  },
+
+  "Left angular gyrus": {
+    "number": 10,
+    "A": [
+      {
+        "region_name": "Left angular gyrus",
+        "region_number": 41,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "Parietal_Inf_L",
+        "region_number": 65,
+        "atlas": "aal"
+      },
+      {
+        "region_name": "Angular_L",
+        "region_number": 69,
+        "atlas": "aal"
+      }
+    ]
+  },
+
+  "Left frontal medial cortex": {
+    "number": 11,
+    "A": [
+      {
+        "region_name": "Left frontal medial cortex",
+        "region_number": 49,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "Frontal_Med_Orb_L",
+        "region_number": 21,
+        "atlas": "aal"
+      },
+      {
+        "region_name": "Rectus_L",
+        "region_number": 23,
+        "atlas": "aal"
+      }
+    ]
+  },
+
+  "Right frontal medial cortex": {
+    "number": 12,
+    "A": [
+      {
+        "region_name": "Right frontal medial cortex",
+        "region_number": 50,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "Frontal_Med_Orb_R",
+        "region_number": 22,
+        "atlas": "aal"
+      },
+      {
+        "region_name": "Rectus_R",
+        "region_number": 24,
+        "atlas": "aal"
+      }
+    ]
+  },
+
+  "Left juxtapositional lobule cortex": {
+    "number": 13,
+    "A": [
+      {
+        "region_name": "Left juxtapositional lobule cortex",
+        "region_number": 51,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "Supp_Motor_Area_L",
+        "region_number": 15,
+        "atlas": "aal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "left-amygdala ": {
+    "A": [
+      {
+        "region_name": "left amygdala",
+        "region_number": 10,
+        "atlas": "harvard-sub"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "left amygdala",
+        "region_number": 18,
+        "atlas": "desikan"
+      }
+    ]
+  },
+
+  "right-amygdala": {
+    "A": [
+      {
+        "region_name": "right amygdala",
+        "region_number": 20,
+        "atlas": "harvard-sub"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "right amygdala",
+        "region_number": 54,
+        "atlas": "desikan"
+      }
+    ]
+  },
+
+  "Left cingulate gyrus, anterior division": {
+    "A": [
+      {
+        "region_name": "left cingulate gyrus, anterior division",
+        "region_number": 57,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "ctx-lh-caudalanteriorcingulate",
+        "region_number": 1002,
+        "atlas": "desikan"
+      },
+      {
+        "region_name": "ctx-lh-rostralanteriorcingulate",
+        "region_number": 1026,
+        "atlas": "desikan"
+      }
+    ]
+  },
+
+  "Right cingulate gyrus, anterior division": {
+    "A": [
+      {
+        "region_name": "right cingulate gyrus, anterior division",
+        "region_number": 58,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "ctx-rh-caudalanteriorcingulate",
+        "region_number": 2002,
+        "atlas": "desikan"
+      },
+      {
+        "region_name": "ctx-rh-rostralanteriorcingulate",
+        "region_number": 2026,
+        "atlas": "desikan"
+      }
+    ]
+  },
+
+  "Left superior temporal gyrus, anterior division": {
+    "A": [
+      {
+        "region_name": "left superior temporal gyrus, anterior division",
+        "region_number": 17,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "ctx-lh-superiortemporal",
+        "region_number": 1030,
+        "atlas": "desikan"
+      }
+    ]
+  },
+
+  "Right temporal fusiform cortex, anterior division": {
+    "A": [
+      {
+        "region_name": "Right temporal fusiform cortex, anterior division",
+        "region_number": 74,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "ctx-rh-fusiform",
+        "region_number": 2007,
+        "atlas": "desikan"
+      }
+    ]
+  },
+
+  "Right frontal pole": {
+    "A": [
+      {
+        "region_name": "Right frontal pole",
+        "region_number": 2,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "ctx-rh-frontalpole",
+        "region_number": 2032,
+        "atlas": "desikan"
+      },
+      {
+        "region_name": "ctx-rh-rostralmiddlefrontal",
+        "region_number": 2027,
+        "atlas": "desikan"
+      }
+    ]
+  },
+
+  "Left juxtapositional lobule cortex": {
+    "A": [
+      {
+        "region_name": "Left juxtapositional lobule cortex",
+        "region_number": 51,
+        "atlas": "harvard-cortical"
+      }
+    ],
+    "B": [
+      {
+        "region_name": "ctx-lh-superiorfrontal",
+        "region_number": 1028,
+        "atlas": "desikan"
+      }
+    ]
+  }
+}
